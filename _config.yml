@@ -22,6 +22,7 @@ author: TMU WAVE
 navbar-links:
   About Us: "aboutme"
   Repositories:
+    - Website: "https://github.com/TMU-Wave/TMU-Wave.github.io"
     - Bluesim: "https://github.com/TMU-Wave/bluesim"
   Join the Team: "https://forms.gle/9pVjgiQWigX1xMzz7"
 
