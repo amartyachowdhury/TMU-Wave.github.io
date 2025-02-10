@@ -58,6 +58,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
+  text-align: center;
   font-size: 2.25rem;
 }
 h2 {
@@ -78,6 +79,42 @@ a {
 a:hover,
 a:focus {
   color: var(--hover-col);
+}
+.hero section {
+  text-align: center; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.hero h1 {
+  font-size: 50px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+.hero h4 {
+  text-align: center;
+  font-weight: normal;
+  max-width: 800px; 
+  line-height: 1.6; 
+  margin-bottom: 70px;
+}
+.instagram-embed{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  width: 100%;
+}
+.instagram-embed h1{
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+.instagram-embed blockquote{
+  font-size: 40px;
+  margin-bottom: 40px;
+  max-width: 540px !important;
+  width: 100% !important; 
 }
 blockquote {
   color: var(--mid-col);
@@ -236,6 +273,7 @@ img {
 
 .dropdown-toggle::after {
   border-width: 0.4em;
+  margin-left: 5px;
 }
 
 @media (min-width: 1200px) {

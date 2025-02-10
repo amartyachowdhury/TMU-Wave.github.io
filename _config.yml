@@ -21,9 +21,8 @@ author: TMU WAVE
 
 navbar-links:
   About Us: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Repositories:
+    - Bluesim: "https://github.com/TMU-Wave/bluesim"
   Join the Team: "https://forms.gle/9pVjgiQWigX1xMzz7"
 
 ################
@@ -61,7 +60,7 @@ social-network-links:
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: company/tmu-wave
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
