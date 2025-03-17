@@ -6,7 +6,7 @@ permalink: /pages/ourteam/
 
 # TMU WAVE: Innovating Underwater Robotics
 
-TMU WAVE is Toronto Metropolitan University's pioneering underwater robotics team, uniting multidisciplinary talents to build an innovative, eco-friendly ROV for competitive exploration.
+ Our team is organized into several specialized subteams—Power Systems, Control Systems, Software, Structural, Design & Compliance, Media & Marketing, and Admin—each contributing their unique expertise to our overall mission.
 
 
 # Subteams
@@ -53,6 +53,13 @@ TMU WAVE is Toronto Metropolitan University's pioneering underwater robotics tea
     <h3 style="margin-bottom: 0.5rem;">Media & Marketing</h3>
     <img src="/images/placeholder.jpg" alt="Media & Marketing" style="max-width:100%; margin-bottom: 0.5rem;" />
     <p>Elevates our online presence through dynamic content and strategic sponsor outreach.</p>
+  </div>
+
+  <!-- Subteam 7: Admin -->
+  <div style="flex: 1 1 45%;">
+    <h3 style="margin-bottom: 0.5rem;">Admin</h3>
+    <img src="/images/placeholder.jpg" alt="Admin" style="max-width:100%; margin-bottom: 0.5rem;" />
+    <p>Manages administrative tasks, team logistics, and internal communications to ensure smooth operations.</p>
   </div>
 
 </div>
