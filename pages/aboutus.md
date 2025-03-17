@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: 
+permalink: /pages/aboutus
 ---
 
 Welcome to TMU's newest design team.

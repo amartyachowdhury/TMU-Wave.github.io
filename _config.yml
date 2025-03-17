@@ -20,7 +20,8 @@ author: TMU WAVE
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
+  Our Team: "/pages/ourteam/"
+  About Us: "/pages/aboutus/"
   Repositories:
     - Bluesim: "https://github.com/TMU-Wave/bluesim"
   Join the Team: "https://forms.gle/9pVjgiQWigX1xMzz7"
